@@ -10,7 +10,7 @@ How to reach me:
 * e-mail: tomich_media@protonmail.com
 
 
-*Thank you for you attention!
+<it>Thank you for you attention!</it>
 
 <!--
 **epotapp/epotapp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
