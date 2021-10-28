@@ -1,7 +1,7 @@
 #### Hi there 👋
 
 #### My name is Eugene and I'm beginner in the front-end.
-* I'm currently learning javascript and Node.js and working on the stained-glass-selling web-site.
+* I'm currently learning javascript React and Node.js and working on the stained-glass-selling web-site.
 * I'm looking to collaborate with other cool people.
 * If you good in the JS or Node or some conterminal technologies and you could help me with advice please contact me.
 
