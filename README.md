@@ -2,7 +2,7 @@
 
 #### My name is Eugene and I'm beginner in the front-end.
 * I'm currently learning JS Node.js and and also about to learn React. 
-* Also inerested in Vue
+* Also inerested in Vue.
 * Working on the social network for my friends.
 * I'm looking to collaborate with other cool people.
 * If you good in the JS or Node or some conterminal technologies and you could help me with advice please contact me.
