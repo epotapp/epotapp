@@ -1,11 +1,8 @@
 #### Hi there 👋
 
-#### My name is Eugene and I'm beginner in the front-end.
-* I'm currently learning JS Node.js and and also about to learn React. 
-* Also inerested in Vue.
-* Working on the social network for my friends.
+#### My name is Eugene and I'm Front-end developer.
+* I can complete any project for you. Don't Doubt me about that. ;-)
 * I'm looking to collaborate with other cool people.
-* If you good in the JS or Node or some conterminal technologies and you could help me with advice please contact me.
 
 #### How to reach me: 
 * Telegram: @M_Tomich
