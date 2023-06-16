@@ -5,7 +5,7 @@
 * I'm looking to collaborate with other cool people.
 
 #### How to reach me: 
-* Telegram: @M_Tomich
+* Telegram: @enevxant
 * e-mail: tomich_media@protonmail.com
 
 
