@@ -1,7 +1,7 @@
 #### Hi there 👋
 
 #### My name is Eugene and I'm Front-end developer.
-* I can complete any project for you. Don't Doubt me about that. ;-)
+* I can complete any project for you. Don't doubt me about that. ;-)
 * I'm looking to collaborate with other cool people.
 
 #### How to reach me: 
