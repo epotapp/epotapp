@@ -1,10 +1,10 @@
-👋 Hi there! My name is Eugene. I’m a passionate frontend developer with a knack for building applications that not only function efficiently but also dazzle and delight. With expert-level skills in Python 🐍 (5/5 stars), and solid proficiency in C and JavaScript (all 4/5 stars), I blend creativity with technical acumen to create impactful software.
+👋 Hello! I'm Eugene—a fervent frontend developer whose aim is to build applications that are as functional as they are captivating. My expertise in Python is top-notch 🐍 (rated 5/5 stars), complemented by my solid command of C and JavaScript (each 4/5 stars). I combine creative vision with technical precision to craft impactful software.
 
-🎮 I love designing games that amaze and engage people, pushing the boundaries of what's expected. Currently, I’m diving deep into C programming, focusing on expanding my capabilities in systems and application development. It's not just a hobby; it's the path I'm charting for my growth in tech.
+🎮 Gaming is my passion. I strive to create games that not only entertain but also inspire awe, constantly challenging the limits of the expected. My current focus is on deepening my C programming skills, where I’m honing my abilities in systems and applications development. This pursuit is more than a hobby—it's a deliberate path toward my personal and professional growth.
 
-🔍 Curious about my projects? Each repository is a gateway to a new adventure. Whether you're looking for innovative game designs or robust C applications, you'll find something that catches your eye. Let's explore the possibilities of code together!
+🔍 Interested in my work? Each of my repositories offers a portal to an exciting journey. From innovative game concepts to sturdy C-based applications, there's always something to spark curiosity. Let's dive into the world of coding together!
 
-🌱 Stay tuned and watch this space—there's always something exciting in the works!
+🌱 Keep an eye on this space—there's perpetually something thrilling in development!
 
 #### How to reach me: 
 * Telegram: @enevxant
