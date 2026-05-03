@@ -6,8 +6,7 @@ I aim to create games designed and programmed well for the enjoyment of many.
 🔍 Interested in my work? 
 
 #### How to reach me: 
-* Telegram: @enevxant
-* e-mail: tomich_media@protonmail.com
+* e-mail: evgenii.potapkin@protonmail.com
 
 <b>Thank you for you attention!</b>
 
