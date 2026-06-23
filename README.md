@@ -1,10 +1,4 @@
-👋 Hello! I'm Eugene — a game designer with experience in a variety of tools: Python, C/C++ and Javascript are my main languages. 
-I aim to create games designed and programmed well for the enjoyment of many.
-
-🎮 Gaming is my passion. My current focus is on deepening my C++ programming skills, and working with Unreal Engine. 
-
-🔍 Interested in my work? 
-
+👋 Hello!
 #### How to reach me: 
 * e-mail: evgenii.potapkin@protonmail.com
 
